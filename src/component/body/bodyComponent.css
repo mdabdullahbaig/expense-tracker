@@ -1,0 +1,64 @@
+.flex-container {
+    display: flex;
+    margin: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.flex-container div {
+    padding: 10px;
+}
+
+/* .left-box {
+    flex: 1;
+
+}
+.center-box {
+    flex: 1;
+
+} */
+.left-box {
+    border-radius: 10px;
+    margin: 0.5rem;
+}
+
+.left-box-in-1 {
+    border-radius: 10px;
+    background: #312424;
+    justify-content: center;
+}
+
+.left-box-in-2 {
+    margin-top: 10px;
+    border-radius: 10px;
+    background: #312424;
+    justify-content: center;
+    text-align: center;
+   
+}
+.left-box-in-3 {
+    margin-top: 10px;
+    border-radius: 10px;
+    background: #312424;
+    text-align: center;
+   
+}
+
+.right-box {
+    height: 500px;
+    border-radius: 10px;
+    margin: 0.5rem;
+    overflow-y: auto;
+}
+
+.right-box-in-1 {
+    border-radius: 10px;
+    background: #312424;
+    justify-content: center;
+    text-align: center;
+   
+}
+.right-box-in-2 {
+    border-radius: 10px;
+    justify-content: center;   
+}
