@@ -91,7 +91,7 @@ const TransactionForm = props => {
               )
             }}
           />
-          <button type="submit" class="btn btn-light btn-sm">Submit</button>          
+          <button type="submit" class="btn btn-outline-success btn-sm">Submit</button>          
         </div>
       </form>
     </React.Fragment>

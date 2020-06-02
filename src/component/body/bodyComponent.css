@@ -31,7 +31,8 @@
 .left-box-in-2 {
     margin-top: 10px;
     border-radius: 10px;
-    background: #312424;
+    background: white;
+    border: 2px solid #312424;
     justify-content: center;
     text-align: center;
    
